@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riham Nazeer.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I am Riham Nazeer,Software Engineering Undergraduate Student at OUSL.</h3>
+<h3 align="center">I am Riham Nazeer, Software Engineering Undergraduate Student at OUSL.</h3>
  
 # 💫 About Me:
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me nazeerreeha@gmail.com<br>📄 Know about me at [https://www.linkedin.com/in/mnfriham/]<br>⚡ Fun fact I think I'm Funny
