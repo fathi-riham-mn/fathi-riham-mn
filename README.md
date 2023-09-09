@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riham Nazeer.</h1>
 <a href="https://github.com/rihamnazeer/rihamnazeer">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ZeenathZahra&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=rihamnazeer&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 <h3 align="center">I am Riham Nazeer, Software Engineering Undergraduate Student at OUSL.</h3>
