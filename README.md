@@ -69,12 +69,6 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/778422085639032832/44mC-kJ3_400x400.jpg" alt="yarn" width="40" height="40"/> </a> 
 
- 
-
-
-
-
-
 
 
 # 📊 GitHub Stats:
@@ -83,7 +77,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihamnazeer&theme=monokai&show_icons=true&locale=en" alt="rihamnazeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihamnazeer&theme=monokai" alt="rihamnazeer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihamnazeer&theme=monokai&" alt="rihamnazeer" /></p>
+
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihamnazeer&theme=monokai" alt="rihamnazeer" /></a> </p>
