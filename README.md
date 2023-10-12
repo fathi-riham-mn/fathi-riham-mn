@@ -75,9 +75,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihamnazeer&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rihamnazeer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihamnazeer&theme=monokai&show_icons=true&locale=en" alt="rihamnazeer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihamnazeer&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="rihamnazeer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihamnazeer&theme=monokai&" alt="rihamnazeer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihamnazeer&theme=monokai&hide_border=false" alt="rihamnazeer" /></p>
 
 
 ## 🏆 GitHub Trophies
@@ -89,6 +89,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rihamnazeer&icon=5&color=4)](https://visitcount.itsvg.in)
+
+
+
+
 
 
 
