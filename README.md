@@ -87,6 +87,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rihamnazeer&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
+
+## Hacktoberfest Badge's
+[![An image of @rihamnazeer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rihamnazeer)](https://holopin.io/@rihamnazeer)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rihamnazeer&icon=5&color=4)](https://visitcount.itsvg.in)
 
