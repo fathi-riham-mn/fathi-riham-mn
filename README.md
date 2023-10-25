@@ -4,7 +4,7 @@
 <h3 align="center">I am Riham Nazeer, Software Engineering Undergraduate Student at OUSL.</h3>
  
 # 💫 About Me:
- 🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
+ 🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
 
 ## 🌐 Connect with me:
