@@ -73,27 +73,27 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihamnazeer&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rihamnazeer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathi-riham-mn&theme=monokai&show_icons=true&locale=en&layout=compact" alt="rihamnazeer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rihamnazeer&theme=monokai&hide_border=false&include_all_commits=false&count_private=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathi-riham-mn&theme=monokai&hide_border=false&include_all_commits=false&count_private=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rihamnazeer&theme=monokai&" alt="rihamnazeer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathi-riham-mn&theme=monokai&" alt="rihamnazeer" /></p>
 
 
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihamnazeer&theme=monokai" alt="rihamnazeer" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathi-riham-mn&theme=monokai" alt="rihamnazeer" /></a></p>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rihamnazeer&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=fathi-riham-mn&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 
 ## Hacktoberfest Badge's
 [![An image of @rihamnazeer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rihamnazeer)](https://holopin.io/@rihamnazeer)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rihamnazeer&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fathi-riham-mn&icon=5&color=4)](https://visitcount.itsvg.in)
 
 
 
