@@ -7,6 +7,10 @@
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
 <!-- BLOG-POST-LIST:START -->
+<div align="center">
+          <h3>This week I spent my time on</h3>
+          <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fathi-riham-mn&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" />
+        </div>
 <!-- Dev.to Card start -->
 
   <div align="center">
