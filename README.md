@@ -9,7 +9,7 @@
 <!-- BLOG-POST-LIST:START -->
 <div align="center">
           <h3>This week I spent my time on</h3>
-          <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fathi-riham-mn&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" />
+          <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@reehanazeer99&hide_title=true&hide_border=false&langs_count=5&bg_color=00000000&text_color=777" />
         </div>
 <!-- Dev.to Card start -->
 
