@@ -6,6 +6,7 @@
 # 💫 About Me:
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
 <p align="left">
