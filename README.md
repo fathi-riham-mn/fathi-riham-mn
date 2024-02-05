@@ -7,8 +7,10 @@
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
 <!-- BLOG-POST-LIST:START -->
-<a href="https://wakatime.com/@018d73f1-1682-483d-89d2-d1d88377d0dd"><img src="https://wakatime.com/badge/user/018d73f1-1682-483d-89d2-d1d88377d0dd.svg" alt="Total time coded since Feb 4 2024" /></a>
-<a href="https://app.daily.dev/rihamnazeer99"><img src="https://api.daily.dev/devcards/c2bab8e3c5e24065b3d151daf6c97a51.png?r=de8" width="400" alt="Fathima Riham Mohamed Nazeer's Dev Card"/></a>
+- [8 Mistakes to Avoid While Learning to Code](https://dev.to/ther4v3n/8-mistakes-to-avoid-while-learning-to-code-2m2l)
+- [My VS-Code setup](https://dev.to/ther4v3n/my-vs-code-setup-268e)
+- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
+- [Understanding the Ternary Operator in C and C++](https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
