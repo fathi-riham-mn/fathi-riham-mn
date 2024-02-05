@@ -7,8 +7,8 @@
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
 <!-- BLOG-POST-LIST:START -->
-
-<a href="https://app.daily.dev/rihamnazeer99"><img align="right" src="https://api.daily.dev/devcards/c2bab8e3c5e24065b3d151daf6c97a51.png?r=de8" width="400" alt="Fathima Riham Mohamed Nazeer's Dev Card"/></a>
+<a href="https://wakatime.com/@018d73f1-1682-483d-89d2-d1d88377d0dd"><img src="https://wakatime.com/badge/user/018d73f1-1682-483d-89d2-d1d88377d0dd.svg" alt="Total time coded since Feb 4 2024" /></a>
+<a href="https://app.daily.dev/rihamnazeer99"><img src="https://api.daily.dev/devcards/c2bab8e3c5e24065b3d151daf6c97a51.png?r=de8" width="400" alt="Fathima Riham Mohamed Nazeer's Dev Card"/></a>
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me:
