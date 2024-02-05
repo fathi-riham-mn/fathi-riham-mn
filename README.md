@@ -6,12 +6,7 @@
 # 💫 About Me:
  🔭 I’m currently Reading Bachelor of Software Engineering Degree<br>👨‍💻 I’m currently learning at The Open University of Sri Lanka<br>📫 How to reach me [📧](mailto:nazeerreeha@gmail.com)<br>📄 Know about me at [LinkedIn](https://www.linkedin.com/in/mnfriham/)<br>⚡ Fun fact I think I'm Funny
 
-<!-- BLOG-POST-LIST:START -->
-- [8 Mistakes to Avoid While Learning to Code](https://dev.to/ther4v3n/8-mistakes-to-avoid-while-learning-to-code-2m2l)
-- [My VS-Code setup](https://dev.to/ther4v3n/my-vs-code-setup-268e)
-- [Setting up a Linux Home Server and Using it to Program with VS Code and GitHub](https://dev.to/ther4v3n/setting-up-a-linux-home-server-and-using-it-to-program-with-vs-code-and-github-22f)
-- [Understanding the Ternary Operator in C and C++](https://dev.to/ther4v3n/understanding-the-ternary-operator-in-c-and-c-3ho2)
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 🌐 Connect with me:
 <p align="left">
